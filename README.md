@@ -20,4 +20,4 @@ Moreover we report the CAD model of the differential drive robot in the folder "
 
 For any information, please contact one of the authors.
 
-[Maffettone et al, 2023]:
+[Maffettone et al, 2023]: G.C. Maffettone, L. Liguori, E. Palermo, M. di Bernardo, M. Porfiri, "Hybrid platform for swarm robotics: experiments and high-dimensional continuification control", 2023, https://arxiv.org/abs/2310.01573
