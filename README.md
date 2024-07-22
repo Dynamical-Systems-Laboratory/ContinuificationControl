@@ -1,5 +1,5 @@
 # ContinuificationControl
-Here we store all the material (videos and robots' CAD model) regarding [Maffettone et al, 2023].
+Here we store all the material (videos and robots' CAD model) regarding [Maffettone et al, 2024].
 
 Specifically there are 4 folders:
 
@@ -20,4 +20,4 @@ Moreover we report the CAD model of the differential drive robot in the folder "
 
 For any information, please contact one of the authors.
 
-[Maffettone et al, 2023]: G.C. Maffettone, L. Liguori, E. Palermo, M. di Bernardo, M. Porfiri, "Hybrid platform for swarm robotics: experiments and high-dimensional continuification control", 2023, https://arxiv.org/abs/2310.01573
+[Maffettone et al, 2024]: G.C. Maffettone, L. Liguori, E. Palermo, M. di Bernardo, M. Porfiri, "Mixed Reality Environment and High-Dimensional Continuification Control for Swarm Robotics", Accepted for publication in IEEE Transactions on Control Systems Technology (in press), 2024, https://arxiv.org/abs/2310.01573
