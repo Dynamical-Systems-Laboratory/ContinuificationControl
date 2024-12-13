@@ -20,4 +20,4 @@ Moreover we report the CAD model of the differential drive robot in the folder "
 
 For any information, please contact one of the authors.
 
-[Maffettone et al, 2024]: G.C. Maffettone, L. Liguori, E. Palermo, M. di Bernardo, M. Porfiri, "Mixed Reality Environment and High-Dimensional Continuification Control for Swarm Robotics", Accepted for publication in IEEE Transactions on Control Systems Technology (in press), 2024, https://arxiv.org/abs/2310.01573
+[Maffettone et al, 2024]: G.C. Maffettone, L. Liguori, E. Palermo, M. di Bernardo, M. Porfiri, "Mixed Reality Environment and High-Dimensional Continuification Control for Swarm Robotics", IEEE Transactions on Control Systems Technology, vol. 32, no. 6, pp. 2484-2491, 2024. https://ieeexplore.ieee.org/document/10614946
